@@ -40,8 +40,8 @@ def main(stdscr):
         ["#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#"],
     ]
 
-    posicion = [1, 1]
-    posicion_enemigo = [1, 6]
+    posicion = [1, 1] #player init position
+    posicion_enemigo = [1, 6] #enemy init position
     bajar = True  #enemy
     ultima_actualizacion = time.time()
 
