@@ -22,7 +22,7 @@ el jugador controla a un personaje que debe evitar al enemigo que se mueve por e
 
 Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes paquetes:
 
-- `curses` (generalmente preinstalado en sistemas Linux y macOS)
+- `curses` (generalmente preinstalado en sistema)
 - `colorama` (para la gestión de colores en la terminal)
 
 Puedes instalar `colorama` usando `pip`:
